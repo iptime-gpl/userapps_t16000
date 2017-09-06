@@ -1,0 +1,1 @@
+clones/t16000/clone_info.mk
